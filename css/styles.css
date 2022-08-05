@@ -74,7 +74,7 @@ ul {
 /* Images */
 
 .cat-img {
-    padding-top: 1rem;
+    margin-top: 1rem;
     width: 150px;
     height: 150px;
 }
@@ -85,7 +85,7 @@ ul {
 }
 
 .img-large {
-    padding-top: 1rem;
+    margin-top: 1.5rem;
     width: 100px;
     height: 100px;
 }
